@@ -1,4 +1,3 @@
 # Kokoa clone 2020 Update
 
-CSS got so much better
-ssi bal again
+HTML CSS got su much better
